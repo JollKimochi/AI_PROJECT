@@ -61,8 +61,8 @@ Model final yang dipakai adalah **Random Forest tanpa kolom P0** (akurasi 91,16%
 ## Cara Menjalankan
 
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
+git clone https://github.com/JollKimochi/AI_PROJECT.git
+cd AI_PROJECT
 
 python -m venv venv
 source venv/bin/activate
