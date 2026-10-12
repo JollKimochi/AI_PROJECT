@@ -1,0 +1,7 @@
+venv/
+.~lock.*
+.ipynb_checkpoints/
+__pycache__/
+.kilo/
+.qodo/
+
